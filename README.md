@@ -16,8 +16,6 @@
 
 ---
 
----
-
 ## Stats 📊
 
 <div align="center">
